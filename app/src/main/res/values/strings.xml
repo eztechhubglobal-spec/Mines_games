@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mines AI Assistant</string>
+    <string name="overlay_service_title">Mines AI Floating Assistant</string>
+    <string name="overlay_service_description">Active floating probability &amp; analytics HUD</string>
+    <string name="permission_overlay_title">Overlay Permission Required</string>
+    <string name="permission_overlay_desc">Grant \'Display over other apps\' to show the assistant while playing in Google Chrome or browser.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="launch_floating_assistant">Launch Floating Assistant</string>
+    <string name="stop_floating_assistant">Stop Floating Assistant</string>
+    <string name="open_game_in_chrome">Open Game in Chrome</string>
+    <string name="target_game_url_label">Target Game URL</string>
+    <string name="detected_game_type">Detected Game</string>
+    <string name="mines_game_title">1Win Mines (5x5 Grid)</string>
+    <string name="double_game_title">1Win Double (Wheel Drum)</string>
+    <string name="risk_indicator_label">Risk Level</string>
+    <string name="expected_value_label">Expected Value (EV)</string>
+    <string name="provably_fair_label">Provably Fair Verifier</string>
+    <string name="nigerian_currency_symbol">₦</string>
+</resources>

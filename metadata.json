@@ -1,0 +1,6 @@
+{
+  "name": "Mines AI Assistant",
+  "description": "Intelligent companion and probability engine for 1Win Mines and Double games with movable floating overlay, real-time risk indicators, and mathematical analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
